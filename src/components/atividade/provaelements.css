@@ -1,0 +1,64 @@
+
+#titulo {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 30px;
+    margin-bottom: 0;
+    height: 60px;
+    width: 100%;
+    border: 1px solid;
+    border-radius: 10px;
+    color: black;
+    background-color: red;
+    font-family: 'Arvo', serif;
+    margin-bottom: 30px;
+  }
+
+  .center-btn{
+      display: flex;
+      justify-content: center;
+  }
+
+  .center-btn1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #btn {
+    width: 200px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.5s ease-in;
+    margin-bottom: 50px;
+    background-color: var(--soft-white);
+  }
+  
+  #btn:hover {
+    transform: scale(1.2);
+  }
+  
+  .prova-catch {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+  
+  .prova-container {
+    width: 500px;
+    height: 350px;
+    border: 5px solid red;
+    border-radius: 5px;
+  }
+  
+  #prova-title {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Arvo', serif;
+    color: white;
+    margin-bottom: 50px;
+  }
+  
